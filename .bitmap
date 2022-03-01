@@ -45,5 +45,11 @@
         "mainFile": "index.ts",
         "rootDir": "demo/ui/text"
     },
+    "ui/tw-button": {
+        "scope": "",
+        "version": "",
+        "mainFile": "index.ts",
+        "rootDir": "getting-started/ui/tw-button"
+    },
     "$schema-version": "14.9.0"
 }

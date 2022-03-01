@@ -3,6 +3,7 @@ import { ReactAspect, ReactPreview } from '@teambit/react';
 import { ThemeCompositions } from '@teambit/documenter.theme.theme-compositions';
 import { Theme } from '@teambit/react.templates.themes.theme';
 import { MyReactAspect } from './my-react.aspect';
+import './tailwind/styles.css';
 
 export class MyReactPreviewMain {
   static runtime = PreviewRuntime;
